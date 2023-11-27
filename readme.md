@@ -1,7 +1,7 @@
 Masaru Yoshida
 ======================================================================================================================================
 
-Software Developer
+Software Engineer
 -------------------
 
 * ✉️  You can contact me at [clacla919a@gmail.com](mailto:clacla919a@gmail.com)
